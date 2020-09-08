@@ -2,7 +2,7 @@
 
 1. Clone this repository:
 ```
-git clone https://github.com/Abhinandan11/depth-map.git
+git clone https://github.com/qingfeiyu/Depth-Aware-3D-Localization-of-Semantic-Objects.git
 ```
 
 2. Install requirements and download pretrained weights
